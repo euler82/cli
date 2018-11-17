@@ -16,7 +16,7 @@ namespace cli
     {
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;1
+            Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
